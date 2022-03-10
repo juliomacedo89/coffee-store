@@ -1,19 +1,14 @@
+/* import RoutesApp from './routes' */
 
-import './App.css';
+import Home from './pages/Home/index'
 
-import cappucinoImg from './assets/img/cappucino.png'
-import bannerImg from './assets/img/banner.jpg'
+import { GlobalStyle } from './styles/global'
 
-
-function App() {
-  return (
-    <div className="App">
-      <h1>Teste deploy</h1>
-
-      <img src={cappucinoImg} alt="banner" />
-      <img src={bannerImg} alt="" />
+export default function App() {
+  return(
+    <div className="app">
+      <Home />
+      <GlobalStyle />
     </div>
-  );
+  )
 }
-
-export default App;
