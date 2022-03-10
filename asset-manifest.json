@@ -1,14 +1,29 @@
 {
   "files": {
     "main.css": "/coffee-store/static/css/main.31d6cfe0.css",
-    "main.js": "/coffee-store/static/js/main.f0d84f5d.js",
+    "main.js": "/coffee-store/static/js/main.ff0618ba.js",
     "static/media/banner.jpg": "/coffee-store/static/media/banner.c9b0c7d7147010429123.jpg",
+    "static/media/logo1.png": "/coffee-store/static/media/logo1.acb94333e858657219c7.png",
     "static/media/cappucino.png": "/coffee-store/static/media/cappucino.389f04140a0e79d571e5.png",
+    "static/media/latte.png": "/coffee-store/static/media/latte.2a45e3f194ef995035e3.png",
+    "static/media/coldJava.png": "/coffee-store/static/media/coldJava.97ebd97482afc37684ab.png",
+    "static/media/mocha.png": "/coffee-store/static/media/mocha.bdc9a588e72b0381cadf.png",
+    "static/media/userMobile.png": "/coffee-store/static/media/userMobile.6abad5eecfdb9705a3c2.png",
+    "static/media/starbucks.png": "/coffee-store/static/media/starbucks.03313c8bea7d46c8eb2e.png",
+    "static/media/dunkin.png": "/coffee-store/static/media/dunkin.ca2863d029b8d6c4f671.png",
+    "static/media/github.png": "/coffee-store/static/media/github.d547c7ee1665b2942d51.png",
+    "static/media/closeMobileModal.png": "/coffee-store/static/media/closeMobileModal.24886344d34f6f158d37.png",
+    "static/media/linkedin.png": "/coffee-store/static/media/linkedin.832b48634000d5390992.png",
+    "static/media/menuMobile.png": "/coffee-store/static/media/menuMobile.23e14e64817ed626802c.png",
+    "static/media/pinterest.svg": "/coffee-store/static/media/pinterest.e5813498202b6e9af8a67b52bde4d1a1.svg",
+    "static/media/instagram.svg": "/coffee-store/static/media/instagram.6748b6e12585a8e8141a4aaa631b2a75.svg",
+    "static/media/facebook.svg": "/coffee-store/static/media/facebook.cc407153a3624e37c02b4616c0aa062a.svg",
+    "static/media/twitter.svg": "/coffee-store/static/media/twitter.3c871957025b01cc115d3d5960439c88.svg",
     "index.html": "/coffee-store/index.html",
-    "main.f0d84f5d.js.map": "/coffee-store/static/js/main.f0d84f5d.js.map"
+    "main.ff0618ba.js.map": "/coffee-store/static/js/main.ff0618ba.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.f0d84f5d.js"
+    "static/js/main.ff0618ba.js"
   ]
 }
