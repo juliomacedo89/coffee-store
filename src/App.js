@@ -1,4 +1,3 @@
-/* import RoutesApp from './routes' */
 
 import Home from './pages/Home/index'
 

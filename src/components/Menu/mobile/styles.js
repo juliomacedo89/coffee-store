@@ -11,7 +11,6 @@ export const Container = styled.div `
         display: flex;
         position: absolute;
         top: 0;
-        /* z-index: 9999; */
     }
 
     .logo{

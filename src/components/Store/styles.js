@@ -4,7 +4,7 @@ export const Container = styled.section `
     width: 100%;
     background: var(--bg-cream);
     margin: 0;
-    border: 1px solid var(--bg-cream); //ENTENDER!
+    border: 1px solid var(--bg-cream);
 `
 
 export const Content = styled.div `
@@ -91,122 +91,7 @@ export const Content = styled.div `
             }
         }
 
-        // -----------------CAROUSEL ----------------
         
-        /* .carousel-root{
-            max-width: 1200px;
-            min-width: 800px;
-            width: 100%;
-
-            padding: 0 1rem;
-        }
-        
-        .carousel.carousel-slider {
-            overflow: visible;
-            max-width: 1200px;
-            min-width: 800px;
-            width: 100%;
-            margin-left: -10px;
-        }
-
-        .slider-wrapper.axis-horizontal{
-            overflow: hidden;
-            ul{
-                max-width: 1200px;
-                min-width: 800px;
-
-                overflow: visible;
-                
-                margin-left: -50px;
-            }
-        }
-
-        .carousel .control-next.control-arrow, .carousel .control-next.control-arrow:hover{
-            height: 50px;
-            
-            background: transparent;
-
-            right: 1.5%;
-            top: 98%;
-
-            @media(min-width: 721px) and (max-width: 1080px){
-                display:none;
-            }
-        }
-
-        .carousel .control-prev.control-arrow, .carousel .control-prev.control-arrow:hover {
-            height: 50px;
-
-            background: transparent;
-
-            left: 1%;
-            top: 98%;
-
-            @media(min-width: 721px) and (max-width: 1080px){
-                display:none;
-            }
-
-        }
-
-        .carousel .control-arrow, .carousel.carousel-slider .control-arrow{
-            opacity: 1;
-        }
-
-        .carousel .control-next.control-arrow:before {
-            content: '';
-
-            border: solid var(--bg-button);
-            border-width: 0 5px 5px 0;
-
-            display: inline-block;
-
-            padding: 0.625rem;
-
-            margin-left: 0px;
-
-            transform: rotate(-45deg);
-
-            -webkit-transform: rotate(-45deg);
-        }
-
-        .carousel .control-prev.control-arrow:before {
-            content: '';
-
-            border: solid var(--bg-button);
-            border-width: 0 5px 5px 0;
-
-            display: inline-block;
-
-            padding: 0.625rem;
-
-
-            transform: rotate(135deg);
-            
-            -webkit-transform: rotate(135deg);
-        }
-
-        .carousel-status{
-            display: none;
-        }
-
-        .control-dots{
-            margin-bottom: -60px;
-            @media(min-width: 721px) and (max-width: 1080px){
-                display:none;
-            }
-        }
-
-        .dot {
-            background: var(--bg-button);
-
-        }
-
-        .slider.animated{
-            height: 500px;
-            align-items: center;
-        } */
-        // -------------------------------------------------
-
         .product-item{
             min-width: 260px;
             max-width: 260px;

@@ -4,7 +4,7 @@ export const Container = styled.section `
     width: 100%;
     background: var(--bg-cream);
     margin: 0;
-    border: 1px solid var(--bg-cream); //ENTENDER!
+    border: 1px solid var(--bg-cream);
 
 `
 

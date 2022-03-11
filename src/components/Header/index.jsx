@@ -1,7 +1,6 @@
 import { Container, Content } from "./styles";
 
 import Menu from '../Menu/index'
-/* import MenuMobile from '../Menu/mobile/index' */
 
 import bannerImg from '../../assets/img/banner.jpg'
 
