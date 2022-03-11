@@ -4,7 +4,7 @@
 
 * Desenvolver um e-commerce (para venda de diferentes tipos de café) com boa usabilidade e experiência do usuário.
 
- ### ⏳ Projeto em adamento**:
+ ### ⏳ Projeto em adamento:
 * Step 1: layout (concluído);
 * Step 2: Responsividade (concluído);
 * Step 3: Deploy no GH pages (concluído);
