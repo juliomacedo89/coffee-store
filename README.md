@@ -12,9 +12,11 @@
 
 * Previsão de conclusão: Março/2022
 
-### 🚀 Tecnologias utilizadas: React Js e Styled Components.
+### 🚀 Tecnologias utilizadas: 
+* React Js e Styled Components.
 
-### 📚 Bibliotecas utilizadas: React Router Dom, React Modal e Styled Components
+### 📚 Bibliotecas utilizadas: 
+* React Router Dom, React Modal e Styled Components
 
 💬 Este projeto possui comentários nos códigos, visto que, foi realizado com fins didáticos. Além disso, qualquer pessoa que tiver acesso a este repositório poderá facilmente compreender o contexto e fluxo da aplicação.
 
