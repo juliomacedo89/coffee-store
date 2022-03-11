@@ -23,12 +23,12 @@
 
 💬 Este projeto possui comentários nos códigos, visto que, foi realizado com fins didáticos. Além disso, qualquer pessoa que tiver acesso a este repositório poderá facilmente compreender o contexto e fluxo da aplicação.
 
-
 ## Para rodar esse projeto
 * 'yarn start'
 * Requer prévia instalação do Node.
 
-
+## Inspiração
+* https://www.figma.com/file/ZMovdukjnQKOe02QZHbfGH/Coffee-Website-UI%2FUX-(Community)?node-id=1%3A2
 
 ## 👨🏻‍💻 Conheça mais sobre mim:
 
