@@ -32,7 +32,7 @@ export const Content = styled.div `
             min-height: 450px;
             object-fit: cover;
         }
-
+        
         .banner-text{
             display: flex;
             flex-direction: column;
