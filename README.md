@@ -1,5 +1,8 @@
 # E-COMMERCE - MYCOFFEE ☕
 
+### 💻 Deploy do projeto
+* https://juliomacedo89.github.io/coffee-store/
+
 ### 🎯 Objetivos  do projeto 
 
 * Desenvolver um e-commerce (para venda de diferentes tipos de café) com boa usabilidade e experiência do usuário.
@@ -29,5 +32,16 @@
 
 ## 👨🏻‍💻 Conheça mais sobre mim:
 
-* Linkedin: https://www.linkedin.com/in/j%C3%BAlio-macedo-6ab034180/
+<a href="https://www.linkedin.com/in/j%C3%BAlio-macedo-6ab034180/" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
+
+<a href="https://wa.me/5514997551925" alt="WhatsApp" target="_blank">
+
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+
+</a>
+
 
